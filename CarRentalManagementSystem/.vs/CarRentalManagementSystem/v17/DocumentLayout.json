@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|c:\\users\\muneeb\\desktop\\semesters data\\2 sem\\car rental managment systems\\carrentalmanagementsystem\\carrentalmanagementsystem\\rantal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:rantal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|c:\\users\\muneeb\\desktop\\semesters data\\2 sem\\car rental managment systems\\carrentalmanagementsystem\\carrentalmanagementsystem\\dashboarddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dashboarddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dl\\userloaddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dl\\userloaddl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dl\\returndl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dl\\returndl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dl\\rentaldl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dl\\rentaldl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dl\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dl\\logindl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dl\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dl\\customerdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\dl\\carsinfodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FCDE99-7C88-4AAC-87A7-B3A440180DC3}|CarRentalManagementSystem.csproj|solutionrelative:dl\\carsinfodl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rantal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\Rantal.cs",
+              "RelativeDocumentMoniker": "Rantal.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\Rantal.cs [Design]",
+              "RelativeToolTip": "Rantal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:16:49.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardDL.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DashboardDL.cs",
+              "RelativeDocumentMoniker": "DashboardDL.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DashboardDL.cs",
+              "RelativeToolTip": "DashboardDL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T13:39:46.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DashBoard.cs",
+              "RelativeToolTip": "DashBoard.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowBkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-18T13:39:19.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashBoard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DashBoard.cs",
+              "RelativeDocumentMoniker": "DashBoard.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DashBoard.cs [Design]",
+              "RelativeToolTip": "DashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-18T13:39:17.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserloadDL.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\UserloadDL.cs",
+              "RelativeDocumentMoniker": "DL\\UserloadDL.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\UserloadDL.cs",
+              "RelativeToolTip": "DL\\UserloadDL.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:33:14.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReturnDL.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\ReturnDL.cs",
+              "RelativeDocumentMoniker": "DL\\ReturnDL.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\ReturnDL.cs",
+              "RelativeToolTip": "DL\\ReturnDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:33:12.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RentalDL.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\RentalDL.cs",
+              "RelativeDocumentMoniker": "DL\\RentalDL.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\RentalDL.cs",
+              "RelativeToolTip": "DL\\RentalDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:33:09.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginDL.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\LoginDL.cs",
+              "RelativeDocumentMoniker": "DL\\LoginDL.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\LoginDL.cs",
+              "RelativeToolTip": "DL\\LoginDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:33:06.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDL.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\CustomerDL.cs",
+              "RelativeDocumentMoniker": "DL\\CustomerDL.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\CustomerDL.cs",
+              "RelativeToolTip": "DL\\CustomerDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:33:04.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarsInfoDL.cs",
+              "DocumentMoniker": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\CarsInfoDL.cs",
+              "RelativeDocumentMoniker": "DL\\CarsInfoDL.cs",
+              "ToolTip": "C:\\Users\\MUNEEB\\Desktop\\semesters data\\2 sem\\car rental managment systems\\CarRentalManagementSystem\\CarRentalManagementSystem\\DL\\CarsInfoDL.cs",
+              "RelativeToolTip": "DL\\CarsInfoDL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T17:32:30.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

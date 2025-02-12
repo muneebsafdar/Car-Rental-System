@@ -1,0 +1,1 @@
+Data Source=DESKTOP-B4HF2L6\SQLEXPRESS;Initial Catalog=CarRentalDatabase;Integrated Security=True;Encrypt=False
